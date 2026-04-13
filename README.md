@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Web Developer Portfolio
 
 A modern, responsive web developer portfolio built with React, Vite, and Radix UI components. This project showcases professional work, skills, and contact information in a sleek, dark-themed design.
